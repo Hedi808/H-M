@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ghcr.io/your-github-username/h-m-backend:latest
+          image: ghcr.io/Hedi808/h-m-backend:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8000
