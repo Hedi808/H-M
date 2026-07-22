@@ -11,7 +11,7 @@ metadata:
     kubernetes.io/description: "CloudMind generated ingress for h-m"
 spec:
   rules:
-    - host: h-m.local
+    - host: H-M.local
       http:
         paths:
           - path: /
